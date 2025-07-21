@@ -4,7 +4,7 @@ ini_set('display_errors', 1);
 
 try {
     $host = 'ikw4cos008ksg4w4g04cso4k';
-    $dbname = 'mimopet';
+    $dbname = 'mimopet'; 
     $username = 'bperez';
     $password = 'Arriondas1996';
     
